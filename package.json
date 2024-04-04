@@ -12,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^10.4.17",
+    "daisyui": "^4.9.0",
     "postcss": "^8.4.33",
     "prettier": "^3.2.5",
     "prettier-plugin-organize-imports": "^3.2.4",
@@ -23,6 +24,8 @@
     "vite-plugin-solid": "^2.8.2"
   },
   "dependencies": {
+    "@solid-primitives/storage": "^3.1.0",
+    "solid-icons": "^1.1.0",
     "solid-js": "^1.8.11"
   }
 }
